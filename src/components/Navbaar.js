@@ -43,7 +43,9 @@ const Navbaar = () => {
                             </Dropdown.Menu>
                         </Dropdown>
                     ) : (
-                        <Button variant="outline-primary" onClick={handleLoginClick}>Login/Signup</Button>
+                            
+                                <Button variant="outline-primary" onClick={handleLoginClick}>Login/Signup</Button>
+                            
                     )}
                 </div>
             </Container>

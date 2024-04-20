@@ -1,0 +1,136 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "wagonr",
+      "brand": "maruti",
+      "type": "hatchback",
+      "transmission": "manual",
+      "fuel": "petrol",
+      "seating": 5,
+      "price": 200,
+      "city": "Delhi"
+    },
+    {
+      "id": "2",
+      "name": "swift",
+      "brand": "maruti",
+      "type": "hatchback",
+      "transmission": "automatic",
+      "fuel": "diesel",
+      "seating": 5,
+      "price": 250,
+      "city": "Mumbai"
+    },
+    {
+      "id": "3",
+      "name": "i20",
+      "brand": "hyundai",
+      "type": "hatchback",
+      "transmission": "manual",
+      "fuel": "petrol",
+      "seating": 5,
+      "price": 220,
+      "city": "Bangalore"
+    },
+    {
+      "id": "4",
+      "name": "city",
+      "brand": "honda",
+      "type": "sedan",
+      "transmission": "automatic",
+      "fuel": "petrol",
+      "seating": 5,
+      "price": 300,
+      "city": "Kolkata"
+    },
+    {
+      "id": "5",
+      "name": "scorpio",
+      "brand": "mahindra",
+      "type": "SUV",
+      "transmission": "manual",
+      "fuel": "diesel",
+      "seating": 7,
+      "price": 350,
+      "city": "Chennai"
+    },
+    {
+      "id": "6",
+      "name": "nano",
+      "brand": "tata",
+      "type": "compact",
+      "transmission": "manual",
+      "fuel": "petrol",
+      "seating": 4,
+      "price": 150,
+      "city": "Hyderabad"
+    },
+    {
+      "id": "7",
+      "name": "vento",
+      "brand": "volkswagen",
+      "type": "sedan",
+      "transmission": "automatic",
+      "fuel": "petrol",
+      "seating": 5,
+      "price": 280,
+      "city": "Pune"
+    },
+    {
+      "id": "8",
+      "name": "baleno",
+      "brand": "maruti",
+      "type": "hatchback",
+      "transmission": "manual",
+      "fuel": "petrol",
+      "seating": 5,
+      "price": 230,
+      "city": "Ahmedabad"
+    },
+    {
+      "id": "9",
+      "name": "fortuner",
+      "brand": "toyota",
+      "type": "SUV",
+      "transmission": "automatic",
+      "fuel": "diesel",
+      "seating": 7,
+      "price": 400,
+      "city": "Jaipur"
+    },
+    {
+      "id": "10",
+      "name": "kuv100",
+      "brand": "mahindra",
+      "type": "compact SUV",
+      "transmission": "manual",
+      "fuel": "petrol",
+      "seating": 6,
+      "price": 210,
+      "city": "Kochi"
+    },
+    {
+      "id": "11",
+      "name": "tiago",
+      "brand": "tata",
+      "type": "hatchback",
+      "transmission": "manual",
+      "fuel": "petrol",
+      "seating": 5,
+      "price": 180,
+      "city": "Surat"
+    },
+    {
+      "id": 15,
+      "name": "xuv300",
+      "brand": "mahindra",
+      "type": "suv",
+      "transmission": "manual",
+      "fuel": "petrol",
+      "seating": "5",
+      "price": "330",
+      "city": "Bangalore"
+    }
+  ]
+}
